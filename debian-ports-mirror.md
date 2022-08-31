@@ -11,6 +11,9 @@
 阿里云
 `https://mirrors.aliyun.com/debian-ports/`
 
+腾讯云
+`https://mirrors.cloud.tencent.com/debian-ports/`
+
 上海交大
 `https://mirror.sjtu.edu.cn/debian-ports/`
 
